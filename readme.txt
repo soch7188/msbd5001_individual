@@ -11,4 +11,4 @@ Included in "requirements.txt" file. Some dependencies are not necessary but it 
 4. With the final file, change the column names to "id,playtime_forever" manually (no space between commas and names".
 
 ### Result file
-"training_result.csv"
+"result.csv"
