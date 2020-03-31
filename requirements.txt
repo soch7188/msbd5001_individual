@@ -2,7 +2,7 @@ albumentations==0.4.1
 appnope==0.1.0
 attrs==19.3.0
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.4
 catalyst==19.10.2
 crc32c==1.7
 cycler==0.10.0
